@@ -6,7 +6,8 @@
 
   <groupId>group3</groupId>
   <artifactId>Web-app</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
+  <packaging>jar</packaging>
 
   <name>Web-app</name>
   <description>A simple Web-app.</description>
